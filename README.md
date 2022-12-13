@@ -14,4 +14,5 @@ The most common data visualization types are:
 6. Area Charts
 7. Choropleth Maps
 8. Histograms
+9. Box Plot
 
