@@ -18,3 +18,7 @@ The most common data visualization types are:
 8. Histograms
 9. Box Plot
 
+
+## General Type of visualizations are:
+1. Charts: Infromation present in a tabular, graphical form with data displayed along two axes. Can be in the form of graph, diagram, maps.
+
