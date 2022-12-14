@@ -20,5 +20,6 @@ The most common data visualization types are:
 
 
 ## General Type of visualizations are:
-1. Charts: Infromation present in a tabular, graphical form with data displayed along two axes. Can be in the form of graph, diagram, maps.
+1. **Charts:** _Infromation present in a tabular, graphical form with data displayed along two axes. Can be in the form of graph, diagram, maps._
+2. **Table:** _A set of figures dispalyed in rows and columns._
 
