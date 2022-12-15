@@ -25,4 +25,4 @@ The most common data visualization types are:
 3. **Graph:** _A diagram of points, lines, segments, curves or areas that represent certain variables in comparison to each other, usually along two axes at a right angle._
 4. **Geospatial:** _A visualization that shows data in map from using different shapes and colors to show the relationship between the pieces of data and specific location._
 5. **Infographic:** _A combination of visuals and words that represent data. Usually uses charts or diagrams._
-6. **Dashboards:** _A collection of visualization and data displayed in one place to help with analyzing and presenting data. _
+6. **Dashboards:** _A collection of visualization and data displayed in one place to help with analyzing and presenting data._
