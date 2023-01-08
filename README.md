@@ -28,3 +28,4 @@ The most common data visualization types are:
 6. **Dashboards:** _A collection of visualization and data displayed in one place to help with analyzing and presenting data._
 
 # :pray: Support
+This repository needs a ⭐ from you. Don't forget to leave a ⭐.
