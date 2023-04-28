@@ -1,6 +1,6 @@
 [![Licence](https://img.shields.io/github/license/bishtanuj/data-visualization?style=for-the-badge)](./LICENSE) &emsp;
 [![Issues](https://img.shields.io/github/issues/bishtanuj/data-visualization?style=for-the-badge)](./ISSUES) &emsp;
-
+[![Forks](https://img.shields.io/github/license/bishtanuj/data-visualization?style=for-the-badge)](./LICENSE) &emsp;
 # Data Visualization
 Data visualization is the process of interpreting data in the form of graphs and charts so that it is easier to consume and understand the data.
 
