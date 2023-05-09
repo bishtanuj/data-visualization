@@ -4,7 +4,6 @@
 [![Stars](https://img.shields.io/github/stars/bishtanuj/data-visualization?style=for-the-badge)](./STARS) &emsp;
 ![Contributions](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&style=for-the-badge&color=green) 
 
-
 # Data Visualization
 Data visualization is the process of interpreting data in the form of graphs and charts so that it is easier to consume and understand the data.
 
